@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @XertyLoin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hey salut tous c'est Xerty :v:
 
-<!---
-XertyLoin/XertyLoin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Comment aller vous ? moi bien :punch:
+
+se gitHub consite a poser des outils pratique a la vie quotidiene :muscle:
