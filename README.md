@@ -1,5 +1,3 @@
-Hey salut tous c'est Xerty :v:
+Hello everyone i'm Xerty. :v:
 
-Comment aller vous ? moi bien :punch:
-
-ce gitHub consite a proposer des outils pratique a la vie quotidiene :muscle:
+This GitHub is used to propose you many tools to help you every time. :muscle:
