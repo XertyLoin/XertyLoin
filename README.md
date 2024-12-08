@@ -1,18 +1,22 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co/ZBP8nFW/xycorpotext.png"  />
+  <a href="https://xycorpo.com" target="_blank">
+    <img height="150" src="https://i.ibb.co/ZBP8nFW/xycorpotext.png"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
   <a href="https://discord.gg/g57Z6xgQsh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="Discord logo" />
   </a>
   <a href="https://instagram.com/xertyloin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="Instagram logo" />
+  </a>
+  <a href="https://xycorpo.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=XYCORPO&logo=internet-explorer&label=&color=3C3744&logoColor=db9721&labelColor=&style=for-the-badge" height="29" alt="XYCORPO logo" />
   </a>
 </div>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
@@ -52,4 +56,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XertyLoin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=XertyLoin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
 </div>
