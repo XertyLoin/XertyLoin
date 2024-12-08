@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://xycorpo.com" target="_blank">
-    <img height="150" src="https://i.ibb.co/ZBP8nFW/xycorpotext.png"  />
+    <img height="150" src="https://i.ibb.co/7jHpfk9/Nouveau-projet.png"  />
   </a>
 </div>
 
