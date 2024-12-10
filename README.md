@@ -4,7 +4,7 @@
   </a>
 </div>
 
-###
+***
 
 <div align="center">
   <a href="https://discord.gg/g57Z6xgQsh" target="_blank">
