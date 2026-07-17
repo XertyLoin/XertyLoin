@@ -13,8 +13,8 @@
   <a href="https://instagram.com/xertyloin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="Instagram logo" />
   </a>
-  <a href="https://xycorpo.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=XYCORPO&logo=internet-explorer&label=&color=3C3744&logoColor=db9721&labelColor=&style=for-the-badge" height="29" alt="XYCORPO logo" />
+  <a href="https://56corpo.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=56CORPO&logo=internet-explorer&label=&color=3C3744&logoColor=db9721&labelColor=&style=for-the-badge" height="29" alt="56CORPO logo" />
   </a>
 </div>
 
